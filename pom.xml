@@ -27,4 +27,10 @@
       <url>http://localhost:8081/repository/maven-snapshots</url>
     </snapshotRepository>
   </distributionManagement>
+<scm>
+    <url>https://github.com/amira15081998/maven</url>
+    <connection>scm:git:git://github.com/amira15081998/maven.git</connection>
+    <developerConnection>scm:git:git@github.com:amira15081998/maven.git</developerConnection>
+    <tag>HEAD</tag>
+</scm>
 </project>
