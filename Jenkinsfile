@@ -25,6 +25,12 @@ pipeline {
                 }
             }
         }
-
+        stage ('Deployment Stage') {
+            steps {
+                withMaven(globalMavenSettingsConfig: 'null', maven: 'Maven3.6', mavenSettingsConfig: '5b9c5b2c-9b2a-474b-9464-ccc978b5e252') {
+                    sh 'mvn deploy'
+                }
+            }
+        }
     }
 }
