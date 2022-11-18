@@ -8,6 +8,15 @@
     <maven.compiler.source>1.6</maven.compiler.source>
     <maven.compiler.target>1.6</maven.compiler.target>
   </properties>
+  <plugin>
+  <groupId>org.apache.maven.plugins</groupId>
+  <artifactId>maven-release-plugin</artifactId>
+  <configuration>
+    <checkModificationExcludes>
+        <checkModificationExclude>pom.xml</checkModificationExclude>
+    </checkModificationExcludes>
+  </configuration>
+</plugin>
   <name>monappli</name>
   <url>http://maven.apache.org</url>
   <dependencies>
