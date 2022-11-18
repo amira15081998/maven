@@ -1,0 +1,39 @@
+@options
+@packages
+@argfile
+-encoding
+'Cp1252'
+-protected
+-sourcepath
+'C:/Users/lenovo/Desktop/tp2/monappli/target/checkout/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/lenovo/Desktop/tp2/monappli/target/checkout/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'monappli 1.1 API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/lenovo/Desktop/tp2/monappli/target/checkout/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'monappli 1.1 API'
+com.enis.mavenapps
+'C:/Users/lenovo/Desktop/tp2/monappli/target/checkout/src/main/java/com/enis/mavenapps/App.java'
+C:\Users\lenovo\Desktop\tp2\monappli\target\checkout\src\main\java = 1666367205210
+C:\Users\lenovo\Desktop\tp2\monappli\target\checkout\target\apidocs\allclasses-frame.html = 1666367247316
+C:\Users\lenovo\Desktop\tp2\monappli\target\checkout\target\apidocs\allclasses-noframe.html = 1666367247316
+C:\Users\lenovo\Desktop\tp2\monappli\target\checkout\target\apidocs\constant-values.html = 1666367247276
+C:\Users\lenovo\Desktop\tp2\monappli\target\checkout\target\apidocs\deprecated-list.html = 1666367247314
+C:\Users\lenovo\Desktop\tp2\monappli\target\checkout\target\apidocs\help-doc.html = 1666367247326
+C:\Users\lenovo\Desktop\tp2\monappli\target\checkout\target\apidocs\index-all.html = 1666367247311
+C:\Users\lenovo\Desktop\tp2\monappli\target\checkout\target\apidocs\index.html = 1666367247319
+C:\Users\lenovo\Desktop\tp2\monappli\target\checkout\target\apidocs\overview-tree.html = 1666367247307
+C:\Users\lenovo\Desktop\tp2\monappli\target\checkout\target\apidocs\package-list = 1666367247249
+C:\Users\lenovo\Desktop\tp2\monappli\target\checkout\target\apidocs\script.js = 1666367247329
+C:\Users\lenovo\Desktop\tp2\monappli\target\checkout\target\apidocs\stylesheet.css = 1666367247328
