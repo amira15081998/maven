@@ -32,8 +32,8 @@
   </distributionManagement>
 <scm>
     <url>https://github.com/amira15081998/maven</url>
-    <connection>scm:git:git://github.com/amira15081998/maven.git</connection>
-    <developerConnection>scm:git:git@github.com:amira15081998/maven.git</developerConnection>
+    <connection>scm:git:https://github.com/amira15081998/maven.git</connection>
+    <developerConnection>scm:git:https://git@github.com:amira15081998/maven.git</developerConnection>
     <tag>HEAD</tag>
 </scm>
 </project>
