@@ -3,7 +3,11 @@
   <groupId>com.enis.mavenapps</groupId>
   <artifactId>monappli</artifactId>
   <packaging>jar</packaging>
-  <version>1.2-SNAPSHOT</version>
+   <version>1.4</version>
+        <configuration>
+            <source>1.8</source>
+            <target>1.8</target>
+        </configuration>
   <name>monappli</name>
   <url>http://maven.apache.org</url>
   <dependencies>
